@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Wayne_KenrlSU_Google",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "test",
+      "repo": "https://github.com/ivanmeler/android_kernel_samsung_beyondlte",
+      "branch": "oneui5_beyond",
+      "device": "exynos9820-d2x",
+      "defconfig": "exynos9820-d2x_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
