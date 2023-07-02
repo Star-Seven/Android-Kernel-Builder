@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "test",
-      "repo": "https://github.com/ivanmeler/android_kernel_samsung_beyondlte",
-      "branch": "oneui5_beyond",
-      "device": "exynos9820-d2x",
-      "defconfig": "exynos9820-d2x_defconfig"
+      "repo": "https://github.com/bggRGjQaUbCoE/android_kernel_samsung_sm8250-mohammad92",
+      "branch": "android-12",
+      "device": "y2q_chn_openx",
+      "defconfig": "y2q_chn_openx_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
