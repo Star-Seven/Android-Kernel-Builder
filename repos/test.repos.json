@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "SM-N976N",
-      "repo": "https://github.com/easterNday/samsung-exynos9820/",
-      "branch": "devel",
-      "device": "exynos9820-d2xks",
-      "defconfig": "exynos9820-d2xks_defconfig"
+      "name": "oneui5_davinci",
+      "repo": "https://github.com/rainbowdashh/android_kernel_samsung_beyondlte",
+      "branch": "oneui5_davinci",
+      "device": "beyond2lte",
+      "defconfig": "beyond2lte_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
