@@ -5,7 +5,7 @@
       "repo": "https://github.com/rainbowdashh/android_kernel_samsung_beyondlte",
       "branch": "oneui5_davinci",
       "device": "beyond2lte",
-      "defconfig": "beyond2lte_defconfig"
+      "defconfig": "exynos9820-beyond2lte_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
